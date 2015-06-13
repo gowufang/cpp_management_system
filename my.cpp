@@ -32,3 +32,5 @@ public:
 	}
 	friend class Manage;
 };
+
+int maiin()
